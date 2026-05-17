@@ -9,11 +9,6 @@
       "destination": "/api/:path*"
     }
   ],
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "headers": [
     {
       "source": "/assets/(.*)",
