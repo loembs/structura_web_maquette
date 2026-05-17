@@ -1,0 +1,3 @@
+module.exports=[97464,a=>{"use strict";var b=a.i(29874);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"fr",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"STRUCTURA — L'Art de la Finition Parfaite",description:"STRUCTURA · Revêtements architecturaux, peinture professionnelle et finitions haut de gamme en Mauritanie et au Sénégal.",openGraph:{title:"STRUCTURA — L'Art de la Finition Parfaite",description:"Revêtements architecturaux, béton ciré, façades et expertise Fosroc.",images:[{url:"https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=1200&q=80"}]}}])},38931,a=>{a.n(a.i(97464))}];
+
+//# sourceMappingURL=Downloads_structura_web_site_structura_web_site_src_app_layout_tsx_05g-etf._.js.map
