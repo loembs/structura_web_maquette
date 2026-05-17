@@ -2,11 +2,10 @@
   "buildCommand": "npm run build",
   "outputDirectory": ".tanstack/output",
   "installCommand": "npm install",
-  "framework": null,
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "/api/:path*"
+      "destination": "/index.html"
     }
   ],
   "headers": [
