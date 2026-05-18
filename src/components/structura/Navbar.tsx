@@ -30,7 +30,7 @@ export function Navbar() {
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-10 h-20 flex items-center justify-between">
         <a href="#accueil" className="flex items-center gap-3 group">
-          <img src="https://res.cloudinary.com/dlna2kuo1/image/upload/v1779048556/structura-removebg-preview_kdmgk7.png" alt="Structura Logo" className="h-15 w-auto" />
+          <img src="https://res.cloudinary.com/dlna2kuo1/image/upload/v1779048556/structura-removebg-preview_kdmgk7.png" alt="Structura Logo" className="h-12 w-auto" />
         </a>
 
         <nav className="hidden lg:flex items-center gap-8">
